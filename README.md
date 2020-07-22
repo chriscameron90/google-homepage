@@ -14,4 +14,4 @@ The single page - easy mode - should be a carbon copy of the main Google search 
 * a footer with the country
 * a footer with; Advertising, Business, How Search works, Privacy, Terms and Settings
 
-[The Odin Project: Web Development 101 - Project 1] (https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+[The Odin Project: Web Development 101 - Project 1](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
